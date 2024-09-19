@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "11267986529",
+    "project_id": "peak-pulse-94172",
+    "storage_bucket": "peak-pulse-94172.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11267986529:android:3460900d4c8824ea660620",
+        "android_client_info": {
+          "package_name": "com.example.peakpulse_test1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAujYXEAxxZHpSDyW-84eN9-FfsuYSzEqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
