@@ -1,0 +1,7 @@
+# Ignore everything in amazon_clone except specified folders and files
+amazon_clone/*
+!amazon_clone/android/
+!amazon_clone/assets/
+!amazon_clone/ios/
+!amazon_clone/lib/
+!amazon_clone/pubspec.yaml
